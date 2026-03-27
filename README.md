@@ -20,6 +20,7 @@ Every Windows executable (`.exe`, `.dll`) starts with the magic bytes `MZ`. This
 # Clone the repository
 git clone https://github.com/yourusername/magic_byte_checker.git
 cd magic_byte_checker
+´´´
 
 
 # No dependencies needed! Just Python 3
